@@ -1,0 +1,3 @@
+Ülesandeks on luua autovedude firma andmebaasi mudel, mille abil saab pidada igapäevane töö, sealhulgas...
+	töö klientidega: teenuste pakkumiste, teenuste, müügilepingute ja arvete pidamine;
+	töölepingute, personaalisuhete ja autopargi pidamine.
