@@ -1,3 +1,5 @@
-Ülesandeks on luua autovedude firma andmebaasi mudel, mille abil saab pidada igapäevane töö, sealhulgas...
-	töö klientidega: teenuste pakkumiste, teenuste, müügilepingute ja arvete pidamine;
-	töölepingute, personaalisuhete ja autopargi pidamine.
+Exam project
+
+Create transport company database model, capable to help in daily workflow, including:
+	work with customers: services, offers, sales contracts, invoicing,
+				relations with customers, relations with personal, car park maintenance.
